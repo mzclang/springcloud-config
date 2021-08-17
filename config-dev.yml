@@ -5,6 +5,7 @@ server:
 spring:
   application:
     name: config-dev
-
+config:
+  info: information
 
 
