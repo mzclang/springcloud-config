@@ -1,5 +1,6 @@
 config:
   info: information
+  name: zsf
 server:
   port: 2233
 
