@@ -1,5 +1,5 @@
 config:
-  info: information3
+  info: information
 server:
   port: 2233
 
