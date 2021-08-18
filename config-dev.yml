@@ -2,5 +2,5 @@ config:
   info: information3
 server:
   port: 2233
-
+config.infor: configsakldnas
 
