@@ -1,5 +1,5 @@
 config2:
-  info: "hjgjhkjbjlhkjbh"
+   info: "hjgjhkjbjlhkjbh"
 server:
   port: 8080
 
