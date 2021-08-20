@@ -1,5 +1,5 @@
-config2:
-   info: "hjgjhkjbjlhkjbh"
 server:
   port: 8080
+config:
+  info: 21321321
 
