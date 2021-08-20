@@ -1,10 +1,4 @@
-
-server:
-  port: 8002
-
-spring:
-  application:
-    name: config-dev
-
-
-
+config: 
+   info: 'Hello Word'
+server: 
+   port: 8009
