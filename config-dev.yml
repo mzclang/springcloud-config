@@ -1,4 +1,4 @@
 service: 
     info: 'Hello Word'
-server: 
+config: 
    port: 8009
